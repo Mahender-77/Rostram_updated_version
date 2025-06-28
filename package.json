@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Mahender-77/Rostram_updated_version.git",
+  "homepage":"https://Mahender-77.github.io/Rostram_updated_version",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
